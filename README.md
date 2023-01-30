@@ -5,4 +5,4 @@
 Not a Quote
 > Quote right here
 
-![Here is a photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&psig=AOvVaw0TG6ZDG0tpaDBeYho93bfW&ust=1675177697823000&source=images&cd=vfe&ved=0CA8QjhxqFwoTCJiqzq7J7_wCFQAAAAAdAAAAABAE)
+![Here is a photo](https://media.istockphoto.com/id/155439315/photo/passenger-airplane-flying-above-clouds-during-sunset.jpg?s=1024x1024&w=is&k=20&c=pNrrSjEUXD5z0YPxWi16_3j2QWDtJnoFl0-w2128Gws=)
